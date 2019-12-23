@@ -3,4 +3,4 @@ Data wrangling, which consists of:
 Gathering data
 Assessing data
 Cleaning data
-Storing, analyzing, and visualizing your wrangled data
+Storing, analyzing, and visualizing wrangled data
